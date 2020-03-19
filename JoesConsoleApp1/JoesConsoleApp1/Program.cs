@@ -19,7 +19,7 @@ namespace JoesConsoleApp1
 
 
             Console.Write("Hello World!");
-            Console.WriteLine(NewFeature1.Add().ToString());
+            Console.WriteLine(NewFeature1.Add(34,66).ToString());
             Console.Beep();
             Console.OpenStandardInput(20);
             Console.ReadKey(true);
