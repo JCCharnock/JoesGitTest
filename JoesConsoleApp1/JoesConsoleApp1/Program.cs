@@ -10,6 +10,12 @@ namespace JoesConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello World!");
+            Console.Beep();
+            Console.OpenStandardInput(20);
+            Console.ReadKey(true);
+
+
         }
     }
 }
