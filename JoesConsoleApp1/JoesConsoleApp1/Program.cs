@@ -10,6 +10,7 @@ namespace JoesConsoleApp1
     {
         static void Main(string[] args)
         {
+            // code is added in GitHub
             Console.Write("Hello World!");
             Console.Beep();
             Console.OpenStandardInput(20);
