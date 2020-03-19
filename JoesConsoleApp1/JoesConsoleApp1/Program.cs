@@ -15,6 +15,9 @@ namespace JoesConsoleApp1
             // pull on this!
             //code added in VS
 
+            // code for new feature 1
+
+
             Console.Write("Hello World!");
             Console.Beep();
             Console.OpenStandardInput(20);
