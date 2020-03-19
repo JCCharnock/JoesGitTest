@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +11,7 @@ namespace JoesConsoleApp1
         static void Main(string[] args)
         {
             // code is added in GitHub
+            // more GitHub code
             Console.Write("Hello World!");
             Console.Beep();
             Console.OpenStandardInput(20);
