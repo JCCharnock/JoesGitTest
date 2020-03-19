@@ -17,6 +17,7 @@ namespace JoesConsoleApp1
 
             // code for new feature 1
 
+            // TypeCode for new feature 2
 
             Console.Write("Hello World!");
             Console.WriteLine(NewFeature1.Add(34,66).ToString());
