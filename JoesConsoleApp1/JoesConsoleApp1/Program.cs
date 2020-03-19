@@ -13,6 +13,8 @@ namespace JoesConsoleApp1
             // code is added in GitHub
             // more GitHub code
             // pull on this!
+            //code added in VS
+
             Console.Write("Hello World!");
             Console.Beep();
             Console.OpenStandardInput(20);
